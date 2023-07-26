@@ -1,0 +1,77 @@
+body{
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+}
+.navbar {
+    padding: 0 0 5rem ;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    font-weight: bold;
+}
+#title {
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding:3% 5% 3% 5% ;
+}
+.feature-box{
+    padding:5% 5%;
+}
+h1{font-family:"Ubuntu";
+   font-size: 5rem;
+   color: #fff;
+   font-weight: bold; 
+   line-height:1.5 }
+h2{font-family:"Ubuntu";
+    font-size: 3rem;
+    color: #000;
+    font-style: bold; 
+    line-height:1.5 }
+h3{font-family:"Ubuntu";
+    font-size: 2rem;
+    color: #000;
+    font-weight: bold; 
+    line-height:1.5 }
+h4{color:white;}
+p{
+    color: grey;
+}
+.Nhithees {
+    margin: 5% 3% 5% 0;
+}
+#testimonials {
+    padding:7% 15%;
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+}
+.title-image {
+    transform: rotate(30deg);
+    width: 60%;
+    position: absolute;
+}
+#features { 
+    position: relative;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+} 
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+}
+#pricing {
+    background-color: #ff4c68;
+}
+.press {
+    padding: 15px 5px 15px 5px;
+}
+#cta {
+    background-color: #ef8172;
+}
+.footimg {
+    margin: 20px 10px;
+}
